@@ -1,0 +1,206 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    margin: 0 auto;
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-image: url(../images/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 0 40px;
+}
+.head-part{
+    width: 960px;
+}
+.our-works-part{
+    width: 960px;
+}
+.logo{
+    margin: 0;
+    padding: 52px 0 0;
+}
+.logo img{
+    width: 10%;
+}
+.header-content{
+    padding: 70px 240px 130px;
+    text-align: center;
+}
+.header-content h1{
+    font-size: 40px;
+    margin: 10px;
+    color: white;
+}
+.things{
+    color: #ff6e00 ;
+}
+.header-content p {
+    padding: 0 0 38px;
+    color: white;
+}
+.header-content a{
+    text-align: center;
+    text-decoration: none;
+    background: #f17300;
+    padding: 6px 32px;
+    border-radius: 8px;
+    color: white;
+}
+.header-content a:hover{
+    color: #f17300;
+    background: white;
+}
+.our-works{
+    padding: 0 0 70px;
+}
+.works{
+    color: #ff6e00;
+}
+.say{
+    color: white;
+}
+.works-content{
+    text-align: center;
+}
+.works-content h1{
+    font-size: 25px;
+    margin: 0;
+    padding: 51px 0 0;
+}
+.works-content p{
+    padding: 0 280px;
+}
+.picture-box{
+    padding: 45px 0;
+    overflow: hidden;
+}
+.picture{
+    width: 33.33%;
+    float: left;
+}
+.picture img{
+    width: 300px;
+    height: 300px;
+    padding-left: 11px;
+}
+.picture a img:hover{
+    width: 310px;
+    height: 310px;
+    padding-left: 11px;
+}
+.show{
+    text-align: center;
+}
+.show a{
+    text-decoration: none;
+    background: white;
+    border: 1px solid #c2c1c1;
+    color: black;
+    padding: 7px 15px;
+    border-radius: 8px;
+}
+.show a:hover{
+    background: #F3F3F3;
+}
+.profile-part{
+    background: #f1eeee;
+}
+.our-team{}
+.team-picture{
+    overflow: hidden;
+    padding: 0 10px 70px 35px;
+}
+.photo{
+    width: 25%;
+    float: left;
+   
+}
+.photo img{
+    width: 217px;
+    height: 256px;
+    border-radius: 20px;
+    
+}
+.photo a img:hover{
+    width: 225px;
+    height: 262px;
+    border-radius: 20px;
+}
+.photo h2{
+    text-align: center;
+    width: 95%;
+}
+.photo p {
+    text-align: center;
+    width: 96%;
+}
+
+.banner{
+    background-image: url(../images/footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 16px 0 60px;
+}
+.contact-section .works-content p{
+    color: white;
+} 
+
+.form{
+    text-align: center;
+}
+input{
+    height: 28px;
+    width: 211px;
+    border-radius: 10px;
+}
+textarea{
+    min-width: 430px;
+    min-height: 100px;
+    max-width: 430px;
+    max-height: 200px;
+    border-radius: 10px;
+}
+.email{
+    float: left;
+    padding: 0 10px;
+}
+.subject{
+    float: left;
+}
+.submit{
+    
+}
+.submit input{
+    width: 100px;
+    background: #ff6e00;
+    color: white;
+}
+.up-part{
+    overflow: hidden;
+    padding: 0 251px;
+}
+
+footer{
+    background: #3B434C;
+    padding: 0 0 80px;
+}
+footer .our-works-part p{
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.p1{
+    width: 50%;
+    float: left;
+}
+.p2{
+    text-align: right;
+    width: 50%;
+    float: left;
+}
